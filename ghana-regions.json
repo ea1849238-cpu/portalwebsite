@@ -1,0 +1,72 @@
+{
+  "regions": [
+    {
+      "region": "Ashanti",
+      "districts": ["Kumasi", "Obuasi", "Odu", "Ejisu", "Mampong", "Konongo"]
+    },
+    {
+      "region": "Brong-Ahafo",
+      "districts": [
+        "Sunyani",
+        "Techiman",
+        "Berekum",
+        "Dormaa",
+        "Nkoranza",
+        "Wenchi"
+      ]
+    },
+    {
+      "region": "Central",
+      "districts": [
+        "Cape Coast",
+        "Sekondi-Takoradi",
+        "Elmina",
+        "Mfantsiman",
+        "Abura",
+        "Komenda"
+      ]
+    },
+    {
+      "region": "Eastern",
+      "districts": [
+        "Koforidua",
+        "Akwatia",
+        "Nsawam",
+        "Suhum",
+        "Aburi",
+        "Asamankese"
+      ]
+    },
+    {
+      "region": "Greater Accra",
+      "districts": ["Accra", "Tema", "Ga East", "Ga West", "Ashaiman", "Adenta"]
+    },
+    {
+      "region": "Northern",
+      "districts": [
+        "Tamale",
+        "Yendi",
+        "Savelugu",
+        "Gushiegu",
+        "Tolon",
+        "Karaga"
+      ]
+    },
+    {
+      "region": "Upper East",
+      "districts": ["Bolgatanga", "Bawku", "Navrongo", "Zuarungu", "Binduri"]
+    },
+    {
+      "region": "Upper West",
+      "districts": ["Wa", "Lawra", "Nandom", "Jirapa", "Lambussie"]
+    },
+    {
+      "region": "Volta",
+      "districts": ["Ho", "Keta", "Akatsi", "Hohoe", "Kpando", "Denu"]
+    },
+    {
+      "region": "Western",
+      "districts": ["Sekondi", "Tarkwa", "Axim", "Shama", "Nkroful", "Bibiani"]
+    }
+  ]
+}
